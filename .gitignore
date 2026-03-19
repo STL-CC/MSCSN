@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Logs and outputs
+log/
+*.log
+
+# Model artifacts
+*.pth
+*.pt
+
+# Local data artifacts (keep docs only)
+data/**/*.npy
+data/**/*.npz
+data/**/*.h5
+
+# IDE files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Local reference code (not part of release pipeline)
+stage1/
+
+# manuscipt files
+ShapeNet_ICCBR26_0303.pdf

@@ -1,0 +1,41 @@
+Pre-Publication Reproducibility License (PPRL) v1.0
+
+Copyright (c) 2026 The Authors
+
+1. Purpose
+This software is provided solely for academic and scientific reproducibility validation
+of the associated unpublished research work.
+
+2. Granted Rights
+Subject to the terms below, you are granted a limited, non-exclusive,
+non-transferable, revocable right to:
+
+- access, run, and inspect the source code;
+- modify the source code locally for internal reproducibility evaluation.
+
+3. Restrictions
+Until the associated manuscript is formally published, you may NOT, without prior
+written permission from the copyright holder(s):
+
+- copy or redistribute this codebase, in whole or in part;
+- publish, sublicense, or otherwise provide the code to third parties;
+- use this code for commercial purposes;
+- remove or alter this license notice.
+
+4. No Patent License
+No express or implied patent license is granted.
+
+5. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. Limitation of Liability
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+7. Future License Update
+The copyright holder(s) may replace this license with another open-source or
+different license after formal publication of the associated manuscript.
