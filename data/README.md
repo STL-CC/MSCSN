@@ -49,7 +49,3 @@ You can force regeneration with:
 ```bash
 python train.py --dataset MITBIH --run_stage1
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> 3d4d232 (update)
