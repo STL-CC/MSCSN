@@ -50,7 +50,3 @@ You can force regeneration with:
 python train.py --dataset MITBIH --run_stage1
 ```
 
-## Notes
-
-- Make sure dataset licenses and usage terms are respected.
-- Do not commit patient-sensitive or licensed data to the repository.
